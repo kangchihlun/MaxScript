@@ -1,0 +1,2 @@
+# MaxScript
+MaxScript_Collection
